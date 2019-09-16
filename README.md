@@ -1,2 +1,2 @@
 # WChan97.github.io
- WChan's Website.
+Home of WChan's projects.
